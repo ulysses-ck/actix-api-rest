@@ -1,0 +1,2 @@
+[target.x86_64-pc-windows-msvc]
+linker = "C:\\msys64\\ucrt64\\bin\\gcc.exe"
